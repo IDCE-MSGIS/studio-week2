@@ -4,8 +4,8 @@
 - You can use code you see as a guide, along with the instructions below. It's very common to look at code you already know works in order to help you solve problems when you are coding your own page!
 
 ### Initialize your first Mapbox GL JS map
-1. Fire up your text editor. In this class, we’ll be using Visual Studio Code (aka “VS Code”). Web mappers rely heavily on their text editors to get stuff done. We’re going to use ours a lot during this class.
-2. In VS Code, add the folder containing all of today’s class materials to your Workspace (you should have downloaded this from GitHub already): From the File menu, click Add Folder to Workspace, then navigate to today’s class folder on your computer and click Add.
+1. Fire up your text editor. In the labs we have Visual Studio Code (aka “VS Code”), which we will reference here. However, you can use any editor you like at home (or on your own machine). Two we discussed in class are [Webstorm](https://www.jetbrains.com/webstorm/), which some students have liked or [Atom](https://atom.io/) + [Github desktop](https://desktop.github.com/), which Shadrock uses. Web mappers rely heavily on their text editors to get stuff done. We’re going to use ours a lot during this class.
+2. If you're using Atom, then simply clone the repo. In VS Code, download the repo and add the folder to your Workspace: From the File menu, click Add Folder to Workspace, then navigate to today’s class folder on your computer and click Add.
 3. Open `Mapbox-gl-js-cwm.html`
 ---
 ##### 4. Add Mapbox GL JS and CSS Files
